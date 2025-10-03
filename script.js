@@ -32,6 +32,17 @@ let pokemones = [
     hpActual: 44,
     ataque: 48,
     defensa: 65
+  },
+  {
+    nombre: "Gengar",
+    img: "",
+    tipo: ["Fantasma"],
+    numero: 7,
+    descripcion: "Cuando se asusta, se esconde dentro de su caparazón.",
+    hp: 44,
+    hpActual: 44,
+    ataque: 48,
+    defensa: 65
   }
 ];
 
